@@ -1,2 +1,3 @@
 Hello world!
 mainブランチでhoge.txt に追記
+featureブランチでhoge.txtに追記
